@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-9" ?>
+<root>
+  <!--Hücre..-->
+  <nudCellWidth>150</nudCellWidth>
+  <txtCellFont>Arial</txtCellFont>
+  <cmbCellFontSize>10pt</cmbCellFontSize>
+  <cmbCellTextAlign>Center</cmbCellTextAlign>
+  <cmbCellBorderSize>1px</cmbCellBorderSize>
+  <cmbCellBorderType>solid</cmbCellBorderType>
+  <txtCellBorderColor>#006400</txtCellBorderColor>
+  <cmbCellPadding>4px</cmbCellPadding>
+  <!--Tablo..-->
+  <cmbTableBorderSize>1px</cmbTableBorderSize>
+  <cmbTableBorderType>solid</cmbTableBorderType>
+  <txtTableBorderColor>Green</txtTableBorderColor>
+  <cmbTableBorderStyle>collapse</cmbTableBorderStyle>
+  <!--Kolon..-->
+  <cmbColumnBorderSize>1px</cmbColumnBorderSize>
+  <txtColumnBorderColor>#006400</txtColumnBorderColor>
+  <cmbColumnBorderType>solid</cmbColumnBorderType>
+  <txtColumnBackColor>#90EE90</txtColumnBackColor>
+  <cmbColumnTextAlign>Center</cmbColumnTextAlign>
+  <cmbColumnFontBold>bold</cmbColumnFontBold>
+  <cmbColumnPaddingLeft>4px</cmbColumnPaddingLeft>
+  <!--Baslik..-->
+  <txtCaptionFont>Arial</txtCaptionFont>
+  <cmbCaptionFontSize>12pt</cmbCaptionFontSize>
+  <cmbCaptionFontBold>bold</cmbCaptionFontBold>
+  <txtCaptionColor>Green</txtCaptionColor>
+  <cmbCaptionAlign>Left</cmbCaptionAlign>
+  <cmbCaptionPaddingTop>3px</cmbCaptionPaddingTop>
+  <cmbCaptionPaddingBottom>8px</cmbCaptionPaddingBottom>
+  <!--JavaKodu..-->
+  <txtBackColorRow>#8FBC8F</txtBackColorRow>
+  <txtFontColorRow>Teal</txtFontColorRow>
+  <txtHoverBackColorRow>Green</txtHoverBackColorRow>
+  <txtHoverFontColorRow>White</txtHoverFontColorRow>
+</root>
+
+
+
+
+
